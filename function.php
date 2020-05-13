@@ -56,7 +56,7 @@ function save($filename, $content)
 function nama()
     {
     $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, "http://ninjaname.horseridersupply.com/dutch_name.php");
+    curl_setopt($ch, CURLOPT_URL, "http://ninjaname.horseridersupply.com/indonesian_name.php");
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
     curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
