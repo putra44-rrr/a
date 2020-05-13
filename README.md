@@ -1,8 +1,3 @@
-           # gojekgultik
-
-
-        Gojek GULUNG TIKAR
-
-
-* Makan tuh metode. Gausah sok bro *
+jiplak boleh , tapi gak usah belagu , apalagi sampe jual SC.
+gak ada otak lo
 
