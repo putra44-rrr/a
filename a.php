@@ -9,11 +9,11 @@ echo "\e[96m          SCRIB INI TIDAK DI JUAL BELIKAN               \n";
 echo "\e[96m     APALAGI SAMPE BILANG SCRIB ADALAH METHODE          \n";
 echo "\e[96m         PALA BAPAK KAU TU YANG METHODE                 \n";
 echo "\e[96m                                                        \n";
-echo "\e[96m             * REPACK BY  : PUPUT338 *                  \n";
+echo "\e[96m             * REPACK BY  : @Rhama338rhama *                  \n";
 echo "\e[96m ********\e[95m".date('[d-m-Y] [H:i:s]')."\e[96m********\n";
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
-echo "\e[93m            \e[96m  YOK SAATNYA KITA BIKIN PELER \e[93m \n";
+echo "\e[93m            \e[96m  YOK SAATNYA KITA MULAI \e[93m \n";
 echo "\e[96m  ==============================================\n";
 echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 echo "\e[95m Sudah Punya User Id (Y/N ?: ";	
@@ -30,7 +30,7 @@ echo "\033[0m";
 if($user == "")
 {
 	echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
-	echo "\e[95m KLIK ENTER LAGI : ";
+	echo "\e[95m KLIK ENTER LAGI  ";
 	$input = trim(fgets(STDIN));
 	echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 		goto ulang;
