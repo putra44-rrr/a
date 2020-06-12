@@ -49,7 +49,7 @@ goto login;
 	return rtrim( $input, "\n" );
 ulang:
 echo "\n";
-echo "\e[96m ( SUBCRIBE CHANEL YOUTUBE : RIDO RAGUSTI CHANEL YA   $input)        \n";
+echo "\e[96m ( SUBCRIBE CHANEL YOUTUBE : RIDO RAGUSTI CHANEL YA $input)        \n";
 echo "\e[89m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 // function change(){
         $nama = nama();
